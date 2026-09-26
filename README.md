@@ -52,4 +52,13 @@ spctl -a -vv kosa8d            # Gatekeeper's own verdict
 
 ---
 
-kosa8 is an [AZMX AI](https://azmx.ai) project.
+## License
+
+kosa8 is proprietary software. Copyright (c) 2026 kosa8. All rights reserved.
+Use requires a valid kosa8 subscription or evaluation; see [LICENSE](LICENSE).
+Each release ships `THIRD_PARTY_NOTICES.md` listing the third-party components
+it contains and their licences.
+
+Releases up to and including v0.4.2 were published under Apache-2.0; anyone who
+received those versions keeps those rights to them. Every later release is under
+the kosa8 licence.

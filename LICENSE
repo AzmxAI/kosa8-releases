@@ -1,0 +1,97 @@
+kosa8 Proprietary Software License
+
+Copyright (c) 2026 kosa8. All rights reserved.
+
+kosa8, including its source code, object code, binaries, guest images,
+desktop applications, documentation and all related materials (the
+"Software"), is proprietary to kosa8 ("Licensor") and is protected by
+copyright and other intellectual-property laws. The Software is licensed,
+not sold.
+
+1. Licence grant
+
+   Subject to your continuing compliance with this licence, Licensor grants
+   you a limited, non-exclusive, non-transferable, non-sublicensable,
+   revocable licence to install and use the Software in object-code form,
+   solely for your internal purposes:
+
+   (a) during an evaluation period offered by Licensor; or
+   (b) for as long as you hold a valid, paid subscription or licence key
+       issued by Licensor or its authorised reseller, within the plan,
+       seat, capacity and feature limits of that subscription; or
+   (c) under the terms of a separate written agreement signed by Licensor
+       (for example an Enterprise or Government order), which prevails over
+       this licence where the two conflict.
+
+2. Restrictions
+
+   Except as expressly permitted in writing by Licensor, or to the extent
+   applicable law does not allow this restriction, you must not:
+
+   (a) copy, modify, translate or create derivative works of the Software;
+   (b) sell, rent, lease, lend, sublicense, distribute, host for third
+       parties, or otherwise make the Software available to anyone else;
+   (c) reverse engineer, decompile or disassemble the Software, or attempt
+       to derive its source code;
+   (d) remove, disable or circumvent any licence-key check, entitlement,
+       usage limit, signature verification or other technical control;
+   (e) remove or alter any proprietary notice; or
+   (f) use the Software to build a competing product or service.
+
+3. Source code and confidentiality
+
+   The source code of the Software is a trade secret of Licensor. If you
+   are given access to it, you must keep it confidential, use it only as
+   Licensor authorises, and return or destroy it on request.
+
+4. Third-party components
+
+   The Software includes third-party components licensed under their own
+   terms: Go libraries under Apache-2.0, BSD, MIT and ISC licences, and,
+   inside the sandbox guest images, separate programs under the GPL and
+   LGPL (among them the Linux kernel, BusyBox, iptables, crun and libmnl).
+   Those terms govern those components; nothing in this licence restricts
+   the rights they grant, including the right to modify and relink LGPL
+   libraries and to reverse-engineer them for that purpose, and section 2
+   does not apply to them. The components, their licence texts and notices,
+   and the offer of source code for the GPL and LGPL programs are in
+   THIRD_PARTY_NOTICES.md, distributed with the Software.
+
+5. Ownership and feedback
+
+   Licensor and its licensors keep all right, title and interest in the
+   Software. If you send suggestions or feedback, Licensor may use them
+   without obligation to you.
+
+6. Termination
+
+   This licence ends automatically if you breach it, or when your
+   subscription or evaluation ends and is not renewed. On termination you
+   must stop using the Software and delete all copies. Sections 2 to 9
+   survive termination.
+
+7. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT, EXCEPT AS EXPRESSLY STATED IN A
+   SEPARATE WRITTEN AGREEMENT SIGNED BY LICENSOR.
+
+8. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR WILL NOT BE LIABLE FOR
+   ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR
+   FOR LOST PROFITS, DATA OR BUSINESS, ARISING FROM OR RELATED TO THE
+   SOFTWARE. LICENSOR'S TOTAL LIABILITY WILL NOT EXCEED THE AMOUNT YOU PAID
+   FOR THE SOFTWARE IN THE TWELVE MONTHS BEFORE THE CLAIM.
+
+9. Export and government use
+
+   The Software contains encryption and is subject to export-control and
+   sanctions laws; you must comply with them. The Software is "commercial
+   computer software" and "commercial computer software documentation" as
+   those terms are used in FAR 12.212 and DFARS 227.7202; United States
+   Government users acquire only the rights set out in this licence or in
+   their signed order.
+
+Questions about licensing: https://kosa8.com
